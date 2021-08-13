@@ -1,0 +1,20 @@
+O site bechdeltest.com tem uma função muito clara: mostrar quais filmes passam no teste de Bechdel, ou seja: (1) têm 2 personagens femininos ou mais (com nome e relevância na trama), (2) que falam uma com a outra e (3) o assunto de que falam não é homem.
+
+
+
+1) A função desse site é bem executada?
+R: Esse site realiza sim o que promete porém não realiza bem porque o fato de ele não conseguir mostrar os filmes que você deseja pela sua estética acaba fazendo com que a sua função seja mal executada, ele não possui todos os filmes e tem alguns critérios meio imprecisos na avaliação do filme
+
+
+2) Você encontrou algum filme interessante que passe nesse teste? Informe.
+R: Vingadores Ultimato.
+Esse filme está correto em passar no teste porque possui diversas falas entre mulheres que falam sobre diversos assuntos.
+
+
+3) Você encontrou algum fime interessante que não passe nesse teste? Informe.
+R: John Wick: Chapter 3 - Parabellum.
+Esse filme tem poucos dialogos entre mulheres, mais mesmo tendo elas falam sobre John Wick
+
+4) Visualmente o site é fraco. Isso é uma afirmação.
+Diga como o site pode ser melhorado, focando sempre na experiência do usuário.
+R: Primeiro ele precisa de uma aba de pesquisa mais dinâmica que seja fácil de encontrar, os filmes devem ser citados em menos quantidade na tela de início e caso o usuário queira pesquisar mais filmes ele deverá clickar na aba de pesquisa, a formatação do texto em si deveria ser corrigido também e deveria incluir as imagens dos filmes 
