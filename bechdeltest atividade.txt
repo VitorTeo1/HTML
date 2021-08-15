@@ -17,4 +17,4 @@ Esse filme tem poucos dialogos entre mulheres, mais mesmo tendo elas falam sobre
 
 4) Visualmente o site é fraco. Isso é uma afirmação.
 Diga como o site pode ser melhorado, focando sempre na experiência do usuário.
-R: Primeiro ele precisa de uma aba de pesquisa mais dinâmica que seja fácil de encontrar, os filmes devem ser citados em menos quantidade na tela de início e caso o usuário queira pesquisar mais filmes ele deverá clickar na aba de pesquisa, a formatação do texto em si deveria ser corrigido também e deveria incluir as imagens dos filmes 
+R: Primeiro ele precisa de uma aba de pesquisa mais dinâmica que seja fácil de encontrar, os filmes devem ser citados em menos quantidade na tela de início e caso o usuário queira pesquisar mais filmes ele deverá clickar na aba de pesquisa, a formatação do texto em si também deveria ser corrigido e deveria incluir as imagens dos filmes 
